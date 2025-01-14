@@ -7,3 +7,7 @@ for (let i = 0; i < 5; i++) {
 })();
 console.log("rei slot 1");
 const nama = "Endra Dwi"
+
+
+
+const form = new FormData();
